@@ -4,5 +4,4 @@ __pycache__/
 
 # 생성된 파일
 assets/
-out/
 *.zip
